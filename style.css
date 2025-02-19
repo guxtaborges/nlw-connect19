@@ -160,6 +160,9 @@ button:hover {
     background-color: #6F9DE2;
 }
 
+button:hover svg {
+    fill: #13151b;
+}
 
 .page-invite main {
     text-align: center;
